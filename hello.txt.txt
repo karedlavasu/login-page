@@ -1,0 +1,12 @@
+<%@ Page Language="C#" %>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hello, World!</title>
+</head>
+<body>
+  <div>
+    <% Response.Write("Hello, World!"); %>
+  </div>
+</body>
+</html>
